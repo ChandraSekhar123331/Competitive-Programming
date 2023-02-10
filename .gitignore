@@ -1,0 +1,37 @@
+CP-dump/
+*.json
+Books/03-dynprog.pdf
+Books/2003_Book_DiscreteMathematics.pdf
+Books/2006_Book_NumericalOptimization.pdf
+Books/2017_Book_GuideToCompetitiveProgramming.pdf
+Books/algorithms.pdf
+Books/AlgorithmsNotesForProfessionals.pdf
+Books/Competitive_Programming_3-1.pdf
+Books/Computational_Geometry_06_Circles.pdf
+Books/dp_optimisations.pdf
+Books/dp-iii.pdf
+Books/dp.pdf
+Books/Dynamic Programming Questions.pdf
+Books/fft_eng.pdf
+Books/icpc.pdf
+Books/notebook.pdf
+Books/Programming Camp Syllabus.pdf
+Books/Rearrangement Inequality.pdf
+CP-library/geometry/basic.cpp
+CP-library/dsu.cpp
+CP-library/fenwick.cpp
+CP-library/general.cpp
+CP-library/graph.cpp
+CP-library/kruskal.cpp
+CP-library/lca_mod.cpp
+CP-library/lca.cpp
+CP-library/prim.cpp
+CP-library/README.md
+CP-library/seg_tree.cpp
+CP-library/string.cpp
+CP-library/template.cpp
+CP-library/tree.cpp
+CP-library/verybasetemplate.cpp
+cpalgo.md
+Mostafa-Sir-Sheet2.xlsx
+my_CP_notes.odt
