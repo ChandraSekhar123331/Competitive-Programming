@@ -57,11 +57,11 @@ using vpdd = vector<pdd>;
 #define sec second
 #define ins insert
 
-// #define FIO
+#define FIO
 #define SINGLE_TEST
 // #define MULTIPLE_TEST
 
-#define INTERACTIVE
+// #define INTERACTIVE
 
 // #define GCJ_TEST
 
